@@ -37,7 +37,8 @@ Per crearle microsoft excel  mette a disposizione il registratore macro e un edi
      -Collezioni(ovviamente di oggetti ma mi fermo qui)
 
 L'oggetto Range è quello che ho utilizzato per la macro dedicata al censimento.
+
 #### Eesercizi svolti
-Seguendo  [questo-link](#)  troverai il repository degli esercizi svolti leggendo "Programmare in Excel per negati"  raccolti in una sorta di gestionale. Ci riuscirò? Chi lo sa, è una sfida anche per me.
+Seguendo  [questo-link](https://github.com/jacopo-jack/Vba_repo)  troverai il repository degli esercizi svolti leggendo "Programmare in Excel per negati"  raccolti in una sorta di gestionale. Ci riuscirò? Chi lo sa, è una sfida anche per me.
 
 [Torna-su](#indice)
