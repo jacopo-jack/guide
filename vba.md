@@ -19,7 +19,7 @@ Now, in italiano sarebbe data ed ora, che restituisce il giorno e l'ora corrente
 # Le macro e la programmazione ad oggetti
 
 Le macro sono un insieme di azioni che si possono automatizzare secondo una logica di programmazione in quanto ritenute ripetitive.
-Per crearle microsoft excel a disposizione il registratore macro e un editor di codice vba detto visual basic editor(vbe). Visual Basic è un linguaggio di programmazioni ad oggetti, ovvero tutto ciò che si programma è un insieme di byte e bit, e in Excel c'è una gerarchia di oggetti:
+Per crearle microsoft excel  mette a disposizione il registratore macro e un editor di codice vba detto visual basic editor(vbe). Visual Basic è un linguaggio di programmazione ad oggetti, ovvero tutto ciò che si programma è un insieme di byte e bit, e in Excel c'è una gerarchia di oggetti:
 
      - Addin;
      -Window;
@@ -36,7 +36,7 @@ Per crearle microsoft excel a disposizione il registratore macro e un editor di 
      -Range.
      -Collezioni(ovviamente di oggetti ma mi fermo qui)
 
-
+L'oggetto Range è quello che ho utilizzato per la macro dedicata al censimento.
 #### Eesercizi svolti
 Seguendo  [questo-link](#)  troverai il repository degli esercizi svolti leggendo "Programmare in Excel per negati"  raccolti in una sorta di gestionale. Ci riuscirò? Chi lo sa, è una sfida anche per me.
 
