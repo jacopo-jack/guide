@@ -10,4 +10,4 @@ semplice documento creato da Jacopo-Jack
     
 [VBA](vba.md)
 
-[Altr Guide](Altre guide.md)
+[Altre Guide](Altre guide.md)
