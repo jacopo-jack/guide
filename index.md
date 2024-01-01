@@ -10,4 +10,4 @@ semplice documento creato da Jacopo-Jack
     
 [VBA](vba.md)
 
-[Work in progress](#)
+[Altr Guide](Altre guide.md)
