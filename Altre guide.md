@@ -4,10 +4,10 @@
 # Indice 
 
 
-[Benvenuto](Disco di Rete.md)
+[Disco di rete](Disco di Rete.md)
 
-[Casaos](VLC.md)
+[VLC](VLC.md)
     
-[VBA](Firefox.md)
+[Firefox](Firefox.md)
 
 [Altre_Guide](Altre guide.md)
