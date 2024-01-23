@@ -30,3 +30,4 @@ E il gioco è fatto.
 
 ## Cosa posso fare oltre a condividere i file?
 
+Altra cosa che si può fare con un disco collegato alla rete è creare un'interfaccia grafica in html javascript e css per renderlo un po' più simile ad un server; qui poi metterò a disposizione il sorgente della mia gui come se fosse un template. Se si vuole provare una strada simile è meglio comunque prestare attenzione ai vari asset e usare il versioning dei vari script e css che si vuole usare.
